@@ -25,9 +25,9 @@ A Python program that helps users track car service dates and log maintenance hi
 - Python 3 – No external libraries used
 
 ## Author
-Sana Ali
-BS-25-IB-110405
+Your Name : Sana Ali
+Roll No: BS-25-IB-110405
 PIEAS
-Your Name  
-Roll No: [Your Roll No]  
+
 [Your University Name]
+
